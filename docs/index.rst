@@ -14,7 +14,7 @@ One of the most direct ways to get help is by speaking with a real person. And f
 This guide will walk you through everything you need to know about locating the **IDrive Customer Service** phone number safely, quickly, and efficiently.
 
 
-.. image:: start.png
+.. image:: service-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
